@@ -1,0 +1,5 @@
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\SelfHosting\bin\Debug\SelfHosting.dll
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\SelfHosting\obj\Debug\SelfHosting.csprojResolveAssemblyReference.cache
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\SelfHosting\obj\Debug\SelfHosting.dll
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\SelfHosting\obj\Debug\SelfHosting.pdb

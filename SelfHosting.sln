@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHosting", "SelfHosting\SelfHosting.csproj", "{7A8C0317-E8B7-443A-ADB2-3E100A6F1C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCalculatorServiceHost", "MyCalculatorServiceHost\MyCalculatorServiceHost.csproj", "{37596A50-8CEF-43A3-AEFB-2BC467FF4B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8C0317-E8B7-443A-ADB2-3E100A6F1C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8C0317-E8B7-443A-ADB2-3E100A6F1C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8C0317-E8B7-443A-ADB2-3E100A6F1C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8C0317-E8B7-443A-ADB2-3E100A6F1C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37596A50-8CEF-43A3-AEFB-2BC467FF4B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37596A50-8CEF-43A3-AEFB-2BC467FF4B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37596A50-8CEF-43A3-AEFB-2BC467FF4B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37596A50-8CEF-43A3-AEFB-2BC467FF4B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

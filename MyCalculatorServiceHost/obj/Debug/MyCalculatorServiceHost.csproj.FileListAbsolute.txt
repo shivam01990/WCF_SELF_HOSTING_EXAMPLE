@@ -1,0 +1,7 @@
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\obj\Debug\MyCalculatorServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\bin\Debug\MyCalculatorServiceHost.exe
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\bin\Debug\MyCalculatorServiceHost.pdb
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\bin\Debug\SelfHosting.dll
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\bin\Debug\SelfHosting.pdb
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\obj\Debug\MyCalculatorServiceHost.exe
+C:\Users\laitkor\Documents\Visual Studio 2012\Projects\SelfHosting\MyCalculatorServiceHost\obj\Debug\MyCalculatorServiceHost.pdb
